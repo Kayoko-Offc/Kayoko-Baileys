@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/Kayoko-Offc/Bail",
+  "homepage": "https://github.com/Kayoko-Offc/Kayoko-Baileys",
   "repository": {
-    "url": "git+ssh://git@github.com/Kayoko-Offc/Bail.git"
+    "url": "git+ssh://git@github.com/Kayoko-Offc/Kayoko-Baileys.git"
   },
   "license": "MIT",
   "author": "Kayoko",
